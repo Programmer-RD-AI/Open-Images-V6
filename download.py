@@ -1,8 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
-import numpy as np
 from tqdm import tqdm
-import os
 try:
     from urllib.request import urlretrieve  # Python 3
 except ImportError:
